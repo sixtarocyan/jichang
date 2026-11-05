@@ -18,7 +18,7 @@
 下面是我自己用过的一些机场和个人评价，（完全主观），持续寻找好用的工具，不定期汇总更新：
 
 
-### 1. [SSRDOG](https://st1.hosbb.com/#/register?code=52B5aw8F) <- 点击可跳转官网
+### 1. [SSRDOG](https://st2.hosbb.com/#/register?code=52B5aw8F) <- 点击可跳转官网
 
 <img width="2576" height="1442" alt="image" src="https://github.com/user-attachments/assets/c8fd7bee-c209-4aed-b742-7fea2dc81dab" />
 
@@ -29,7 +29,7 @@
 - 850G/企业套餐，75元/月，限速1000 Mbps，10 台设备
 上面套餐都可以按月、按季、按半年、按年付，时间约长优惠越多。标准套餐和企业套餐都是专线节点
 - 按量付费：500G/220元，1000G/400元，全节点，专线，限速1000 Mbps
-订阅可点击：[SSRDOG注册](https://st1.hosbb.com/#/register?code=52B5aw8F)
+订阅可点击：[SSRDOG注册](https://st2.hosbb.com/#/register?code=52B5aw8F)
 
 个人使用感受：GPT，Germini, 流媒体全解锁，延迟慢，网速基本稳定，但是节点有时候不太稳定，会出现连接美国节点但是 ip 在香港或台湾的情况。但是节点很多，所以如果出现这种情况可以更换节点。
 
