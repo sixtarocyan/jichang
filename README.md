@@ -33,7 +33,7 @@
 个人使用感受：GPT，Germini, 流媒体全解锁，延迟慢，网速基本稳定，但是节点有时候不太稳定，会出现连接美国节点但是 ip 在香港或台湾的情况。但是节点很多，所以如果出现这种情况可以更换节点。
 
 
-### 2. [扬帆云](https://yftg1.com/register?code=olhF1n7b) | [地址 2](https://扬帆云.com)
+### 2. [扬帆云](https://yftg1.com/register?code=olhF1n7b) | [地址 2](tps://ml.yfqz1.net/register?code=olhF1n7b)
 
 <img width="2872" height="692" alt="image" src="https://github.com/user-attachments/assets/6e1b4386-b380-4178-b7f5-fc5ef4d31a35" />
 
